@@ -54,8 +54,6 @@ module.exports = {
     await connection("incidents")
       .where("id", id)
       .delete();
-
     return response.status(200).send({msg: "Incident was successfully deleted" });
-    
   }
 };
