@@ -56,5 +56,6 @@ module.exports = {
       .delete();
 
     return response.status(200).send({msg: "Incident was successfully deleted" });
+    
   }
 };
