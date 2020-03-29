@@ -6,7 +6,7 @@
 	:construction: 🚀 Semana OmniStack 11.0 In progress.. :construction:
 </h4>
 <p align="center">
-  <a href="https://insomnia.rest/run/?label=SemanaOmnistack11&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FSemanaOmnistack11%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://insomnia.rest/" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,7 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/SemanaOmnistack11
+$ git clone https://github.com/hantonny/be-the-hero
 
 # Go into the repository
 $ cd SemanaOmnistack11/backend
